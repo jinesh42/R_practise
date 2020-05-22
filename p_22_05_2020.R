@@ -1,2 +1,3 @@
 result <- as.numeric(readline(prompt = "Enter your Birth Year?"))
-print(2020-result)
+age<-2020-result
+cat("Your age is ",age)
